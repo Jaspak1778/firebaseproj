@@ -1,10 +1,10 @@
 ## Small CRUD app with Firebase realtime database (NoSql) and React Vite tool, hosted by gh-pages.
 
-Style libraries:< br / >
+Style libraries:<br/>
 
->MUI-X< br / >
+>MUI-X<br/>
 
->AgGrid< br / >
+>AgGrid<br/>
 
 
 Jani Pekkala 2026
