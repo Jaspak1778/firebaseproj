@@ -1,6 +1,5 @@
 # Small CRUD app
-## Using Firebase realtime database (NoSql) and React Vite tool. 
-## Hosted by [gh-pages](https://docs.github.com/en/pages)
+## Using Firebase realtime database (NoSql) and React Vite tool. <br/> Hosted by [gh-pages](https://docs.github.com/en/pages)
 
 Style libraries:<br/>
 
