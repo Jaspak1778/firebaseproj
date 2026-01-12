@@ -7,6 +7,6 @@ Style libraries:<br/>
 
 >AgGrid<br/>
 
-[Bookstore](https://jaspak1778.github.io/firebaseproj/).
+[Bookstore](https://jaspak1778.github.io/firebaseproj/)
 
 Jani Pekkala 2026
